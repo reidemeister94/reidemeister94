@@ -1,16 +1,43 @@
 ### Hi there 👋
 
-<!--
-**reidemeister94/reidemeister94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a passion for basketball and logic riddles 🚀🏀💻
 
-Here are some ideas to get you started:
+### Skills and technologies I've used or I use (almost) every day 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 🐍
+- Git 🔀
+- Google Cloud Platform (GCP) 💾
+- Docker 🐋
+- Kubernetes 📦
+- Airflow 💨
+- FastAPI 🚀
+- Elasticsearch 🔍
+- Scikit-Learn 🧑‍💻
+- Tensorflow 🤖
+
+### Areas and concepts I've worked on / I'm trying to improve on 💡
+
+- Software Engineering 💻
+- Data engineering 📈
+- Machine learning 🧠
+- Cloud computing and distributed systems ☁️
+- Continuous integration/continuous delivery (CI/CD) 🚀
+
+### GitHub Stats 📈
+
+![GitHub User's stars](https://img.shields.io/github/stars/reidemeister94)
+![GitHub followers](https://img.shields.io/github/followers/reidemeister94)
+
+
+### Contact 📞
+
+You can reach me at:
+- silvio.pavanetto@gmail.com 📧
+- [silviopavanetto.com](https://silviopavanetto.com) 🌐
+- [@silviopavanetto](https://twitter.com/SilvioPavanetto) 🐦
+
+I'm always open to discussing new opportunities or collaborating on interesting projects. 
+Thank you for visiting my profile! 😄
+
+
+
