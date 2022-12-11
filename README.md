@@ -4,20 +4,13 @@ I'm a software engineer with a passion for basketball, food and logic riddles. �
 
 ### Skills and technologies I've used or I use (almost) every day 📚
 
-- Python 🐍
-- Git 🔀
-- Google Cloud Platform (GCP) 💾
-- Docker 🐋
-- Kubernetes 📦
-- Airflow 💨
-- FastAPI 🚀
-- Elasticsearch 🔍
+- 🐍 Python, 🔀 Git, 💾 Google Cloud Platform (GCP), 🐋 Docker, 📦 Kubernetes, 💨 Airflow, 🚀 FastAPI, 🔍 Elasticsearch
 
 ### Interested in 💡
 
 - Software Engineering 💻
 - Data engineering 📈
-- System Design
+- System Design 🖋️
 - Cloud computing and distributed systems ☁️
 - Continuous integration/continuous delivery (CI/CD) 🚀
 
