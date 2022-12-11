@@ -20,7 +20,7 @@ I'm a software engineer with a passion for basketball, food and logic riddles. �
 ![GitHub followers](https://img.shields.io/github/followers/reidemeister94)
 
 
-### Contacts 📞
+### Contacts 📕
 
 You can reach me at:
 - silvio.pavanetto@gmail.com 📧
