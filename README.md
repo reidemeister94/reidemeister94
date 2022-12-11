@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with a passion for basketball and logic riddles 🚀🏀💻
+I'm a software engineer with a passion for basketball, food and logic riddles. 💻🏀🍜
 
 ### Skills and technologies I've used or I use (almost) every day 📚
 
@@ -12,14 +12,12 @@ I'm a software engineer with a passion for basketball and logic riddles 🚀🏀
 - Airflow 💨
 - FastAPI 🚀
 - Elasticsearch 🔍
-- Scikit-Learn 🧑‍💻
-- Tensorflow 🤖
 
-### Areas and concepts I've worked on / I'm trying to improve on 💡
+### Interested in 💡
 
 - Software Engineering 💻
 - Data engineering 📈
-- Machine learning 🧠
+- System Design
 - Cloud computing and distributed systems ☁️
 - Continuous integration/continuous delivery (CI/CD) 🚀
 
@@ -29,15 +27,15 @@ I'm a software engineer with a passion for basketball and logic riddles 🚀🏀
 ![GitHub followers](https://img.shields.io/github/followers/reidemeister94)
 
 
-### Contact 📞
+### Contacts 📞
 
 You can reach me at:
 - silvio.pavanetto@gmail.com 📧
 - [silviopavanetto.com](https://silviopavanetto.com) 🌐
 - [@silviopavanetto](https://twitter.com/SilvioPavanetto) 🐦
 
-I'm always open to discussing new opportunities or collaborating on interesting projects. 
-Thank you for visiting my profile! 😄
+I'm always open to discussing new opportunities or collaborating on interesting projects.
+Thank you for visiting my profile!
 
 
 
