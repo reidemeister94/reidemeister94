@@ -1,20 +1,19 @@
-### Hi there 👋
+## Silvio Pavanetto
 
-I'm a software engineer with a passion for basketball, food and logic riddles. 💻🏀🍜
+Software engineer working on backend systems, system design, and machine learning.
+Currently building software and optimization for heavy industry at **Duferco**, in Lugano.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-reidemeister94.github.io-0d9488?style=for-the-badge&logo=astro&logoColor=white)](https://reidemeister94.github.io)
+### What I work on
 
-### Interested in 💡
+- **Backend & platform** — shared Python libraries, authentication, observability, and CI/CD standards across services
+- **Data & ML** — data pipelines, LLM-based document extraction, and classifiers running in production
+- **Integration** — bridging legacy industrial systems with modern cloud services
 
-- Software Engineering, System Design, Distributed Systems, ML
+### Tools
 
-### GitHub Stats 📈
+`Python` `FastAPI` `PostgreSQL` `AWS` `GCP` `Kubernetes` `Elasticsearch` `PyTorch`
 
-![GitHub User's stars](https://img.shields.io/github/stars/reidemeister94)
-![GitHub followers](https://img.shields.io/github/followers/reidemeister94)
+### Links
 
-### Contacts 📕
-
-You can reach me at:
-- 🌐 [reidemeister94.github.io](https://reidemeister94.github.io)
-- silvio.pavanetto@gmail.com 📧
+- Portfolio — [reidemeister94.github.io](https://reidemeister94.github.io)
+- Email — [silvio.pavanetto@gmail.com](mailto:silvio.pavanetto@gmail.com)
