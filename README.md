@@ -1,17 +1,17 @@
 ## Silvio Pavanetto
 
-Software engineer working on backend systems, system design, and machine learning.
+Software engineer focused on backend systems, system design, and performance.
 Currently building software and optimization for heavy industry at **Duferco**, in Lugano.
 
 ### What I work on
 
-- **Backend & platform** — shared Python libraries, authentication, observability, and CI/CD standards across services
-- **Data & ML** — data pipelines, LLM-based document extraction, and classifiers running in production
-- **Integration** — bridging legacy industrial systems with modern cloud services
+- **System design & backend platforms** — services built on clean data models, type-validated contracts, and observability, held to a consistent engineering bar across 8+ production services.
+- **Performance & efficiency** — profiling and reworking hot paths: a core batch from 30 → 2 min (15×), 96% lower query latency, and search APIs sustaining ~1k req/s.
+- **Data & ML systems** — data pipelines, LLM-based document extraction, and classifiers in production (~1M docs/day at 95% accuracy).
 
 ### Tools
 
-`Python` `FastAPI` `PostgreSQL` `AWS` `GCP` `Kubernetes` `Elasticsearch` `PyTorch`
+`Python` `FastAPI` `Pydantic` `PostgreSQL` `AWS` `GCP` `Kubernetes` `Elasticsearch` `PyTorch`
 
 ### Links
 
