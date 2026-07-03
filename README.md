@@ -1,7 +1,8 @@
 ## Silvio Pavanetto
 
-Software engineer focused on backend systems, system design, and performance.
-Currently building software and optimization for heavy industry at **Duferco**, in Lugano.
+Software engineer with a passion for basketball, food, and logic riddles.
+I work on backend systems, system design, and performance — currently building
+software and optimization for heavy industry at **Duferco**, in Lugano.
 
 ### What I work on
 
@@ -17,7 +18,3 @@ Currently building software and optimization for heavy industry at **Duferco**, 
 
 - Portfolio — [reidemeister94.github.io](https://reidemeister94.github.io)
 - Email — [silvio.pavanetto@gmail.com](mailto:silvio.pavanetto@gmail.com)
-
----
-
-Off the clock: basketball, food, and logic riddles.
