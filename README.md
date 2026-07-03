@@ -5,9 +5,9 @@ Currently building software and optimization for heavy industry at **Duferco**, 
 
 ### What I work on
 
-- **System design & backend platforms** — services built on clean data models, type-validated contracts, and observability, held to a consistent engineering bar across 8+ production services.
-- **Performance & efficiency** — profiling and reworking hot paths: a core batch from 30 → 2 min (15×), 96% lower query latency, and search APIs sustaining ~1k req/s.
-- **Data & ML systems** — data pipelines, LLM-based document extraction, and classifiers in production (~1M docs/day at 95% accuracy).
+- **System design & backend platforms** — services built on clean data models, type-validated contracts, and observability, held to a consistent engineering bar across production services.
+- **Performance & efficiency** — profiling and reworking hot paths to cut runtime and query latency, and keeping APIs fast under load.
+- **Data & ML systems** — data pipelines, LLM-based document extraction, and classifiers running in production.
 
 ### Tools
 
@@ -17,3 +17,7 @@ Currently building software and optimization for heavy industry at **Duferco**, 
 
 - Portfolio — [reidemeister94.github.io](https://reidemeister94.github.io)
 - Email — [silvio.pavanetto@gmail.com](mailto:silvio.pavanetto@gmail.com)
+
+---
+
+Off the clock: basketball, food, and logic riddles.
