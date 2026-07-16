@@ -1,7 +1,7 @@
 ## Silvio Pavanetto
 
 Software engineer with a passion for basketball, food, and logic riddles.
-Most of the time on backend systems, system design, and performance.
+Most of the time on distributed backend systems, system design, and performance.
 Recently trying to embrace the AI storm with critical thinking.
 
 ### What I work on
