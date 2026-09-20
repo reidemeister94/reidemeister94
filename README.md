@@ -1,5 +1,3 @@
-## Silvio Pavanetto
-
 Software engineer with a passion for basketball and food.
 Most of the time on distributed backend systems.
 Recently trying to embrace the AI storm with critical thinking.
