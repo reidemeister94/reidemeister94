@@ -1,18 +1,18 @@
 ## Silvio Pavanetto
 
-Software engineer with a passion for basketball, food, and logic riddles.
-Most of the time on distributed backend systems, system design, and performance.
+Software engineer with a passion for basketball and food.
+Most of the time on distributed backend systems.
 Recently trying to embrace the AI storm with critical thinking.
 
 ### What I work on
 
-- **System design & backend platforms** — services built on clean data models, type-validated contracts, and observability, held to a consistent engineering bar across production services.
-- **Performance & efficiency** — profiling and reworking hot paths to cut runtime and query latency, and keeping APIs fast under load.
-- **Data & ML systems** — data pipelines, LLM-based data extraction pipelines. Building and maintaining the team AI infrastructure.
+- Distributed systems
+- Performance: profiling and reworking hot paths to cut runtime and query latency, and keeping APIs fast under load.
+- Data: data pipelines, LLM-based data extraction workflows. Building and maintaining AI driven development stack and infrastructure.
 
 ### Tools
 
-`Python` `FastAPI` `Pydantic` `PostgreSQL` `AWS` `GCP` `Kubernetes` `Elasticsearch` `PyTorch`
+`Python` `FastAPI` `Pydantic` `PostgreSQL` `AWS` `GCP` `Kubernetes` `PyTorch`
 
 ### Links
 
