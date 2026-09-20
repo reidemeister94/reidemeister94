@@ -1,5 +1,6 @@
 Software engineer with a passion for basketball and food.
-Most of the time on distributed backend systems.
+Most of the time on distributed backend systems, often in my head.
+
 Recently trying to embrace the AI storm with critical thinking.
 
 ### What I work on
